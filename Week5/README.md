@@ -18,6 +18,15 @@ Day 2 uses scikit-learn's built-in breast-cancer dataset to:
 3. Compare training and testing accuracy to identify overfitting.
 4. Extract and visualize the Random Forest's most important features.
 
+## Day 3: Validation and Tuning
+
+Day 3 continues with the breast-cancer dataset to:
+
+1. Measure model reliability with five-fold cross-validation.
+2. Tune a Decision Tree with `GridSearchCV`.
+3. Inspect and explain the best parameters.
+4. Compare model accuracy in a structured CSV sheet.
+
 ## Run
 
 From the repository root:
@@ -30,5 +39,8 @@ From the repository root:
 .venv/bin/python Week5/Day2_ModelCompare/model_compare.py
 .venv/bin/python Week5/Day2_OverfittingCheck/overfitting_check.py
 .venv/bin/python Week5/Day2_FeatureImportance/feature_importance.py
+.venv/bin/python Week5/Day3_CrossValidation/cross_validation.py
+.venv/bin/python Week5/Day3_HyperparameterTuning/hyperparameter_tuning.py
+.venv/bin/python Week5/Day3_BestParameters/best_parameters.py
+.venv/bin/python Week5/Day3_AccuracyComparison/accuracy_comparison.py
 ```
-

@@ -1,0 +1,5 @@
+rank,model,mean_cv_accuracy,cv_standard_deviation,test_accuracy
+1,Logistic Regression,0.9780,0.0098,0.9825
+2,Random Forest,0.9626,0.0179,0.9561
+3,Tuned Decision Tree,0.9363,0.0213,0.9298
+4,Decision Tree,0.9165,0.0179,0.9123

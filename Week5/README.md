@@ -27,6 +27,16 @@ Day 3 continues with the breast-cancer dataset to:
 3. Inspect and explain the best parameters.
 4. Compare model accuracy in a structured CSV sheet.
 
+## Day 4: Preprocessing and Pipelines
+
+Day 4 uses a small student-success CSV containing numerical columns,
+categorical columns, and missing values to:
+
+1. Impute missing values, encode categories, scale features, and split data.
+2. Practice label encoding and one-hot encoding.
+3. Combine preprocessing and classification in a scikit-learn pipeline.
+4. Run one complete workflow from raw CSV data through evaluation.
+
 ## Run
 
 From the repository root:
@@ -43,4 +53,8 @@ From the repository root:
 .venv/bin/python Week5/Day3_HyperparameterTuning/hyperparameter_tuning.py
 .venv/bin/python Week5/Day3_BestParameters/best_parameters.py
 .venv/bin/python Week5/Day3_AccuracyComparison/accuracy_comparison.py
+.venv/bin/python Week5/Day4_PreprocessingRevision/preprocessing_revision.py
+.venv/bin/python Week5/Day4_CategoricalEncoding/categorical_encoding.py
+.venv/bin/python Week5/Day4_PipelineBasics/pipeline_basics.py
+.venv/bin/python Week5/Day4_EndToEndPractice/end_to_end_practice.py
 ```

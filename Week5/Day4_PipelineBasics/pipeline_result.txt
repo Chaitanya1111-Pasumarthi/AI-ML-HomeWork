@@ -1,0 +1,8 @@
+Pipeline Basics
+===============
+Step 1: Fill missing numerical and categorical values.
+Step 2: Scale numerical features and one-hot encode categories.
+Step 3: Train Logistic Regression on the processed features.
+Test accuracy: 0.8750 (87.50%)
+
+The pipeline applies the same learned preprocessing to training data, test data, and future predictions.

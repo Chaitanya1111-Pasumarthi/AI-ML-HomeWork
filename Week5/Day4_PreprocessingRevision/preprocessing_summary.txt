@@ -1,0 +1,11 @@
+Preprocessing Revision
+======================
+Raw rows: 40
+Missing feature values found: 5
+Training rows: 32
+Testing rows: 8
+Features after encoding: 8
+
+Numerical values were filled with the training median and standardized.
+Categorical values were filled with the most frequent training value and one-hot encoded.
+The preprocessor was fitted only on training data to prevent data leakage.

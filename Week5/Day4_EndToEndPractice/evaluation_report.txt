@@ -1,0 +1,20 @@
+End-to-End Student Success Classification
+=========================================
+Raw rows loaded: 40
+Training rows: 32
+Testing rows: 8
+Accuracy: 0.8750 (87.50%)
+Confusion matrix: [[2, 1], [0, 5]]
+
+Classification report
+---------------------
+              precision    recall  f1-score   support
+
+  not passed     1.0000    0.6667    0.8000         3
+      passed     0.8333    1.0000    0.9091         5
+
+    accuracy                         0.8750         8
+   macro avg     0.9167    0.8333    0.8545         8
+weighted avg     0.8958    0.8750    0.8682         8
+
+Workflow: load raw CSV -> split data -> impute -> encode -> scale -> train -> predict -> evaluate.

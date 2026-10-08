@@ -1,0 +1,6 @@
+Categorical Encoding
+====================
+Label encoding for tutoring: {'no': 0, 'yes': 1}
+One-hot columns for learning mode: learning_mode_classroom, learning_mode_group, learning_mode_online
+
+Label encoding is suitable here because tutoring has two values. One-hot encoding is used for learning mode because its categories have no natural order.

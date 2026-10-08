@@ -1,0 +1,6 @@
+numeric__study_hours,numeric__attendance,numeric__previous_score,category__learning_mode_classroom,category__learning_mode_group,category__learning_mode_online,category__tutoring_no,category__tutoring_yes,passed
+0.3746,0.5088,0.4838,0.0000,1.0000,0.0000,0.0000,1.0000,1
+1.1865,0.8874,0.9778,1.0000,0.0000,0.0000,0.0000,1.0000,1
+-1.7745,-1.9901,-1.7395,0.0000,0.0000,1.0000,1.0000,0.0000,0
+-1.0581,-1.1572,-1.0808,1.0000,0.0000,0.0000,1.0000,0.0000,0
+-0.1030,-0.0970,-0.2573,1.0000,0.0000,0.0000,1.0000,0.0000,1

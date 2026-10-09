@@ -1,0 +1,8 @@
+Best Model Summary
+==================
+Selected model: Linear Regression
+Mean Absolute Error: 2.7310
+Mean Squared Error: 14.1757
+R-squared: 0.8518
+Training rows: 96
+Testing rows: 24

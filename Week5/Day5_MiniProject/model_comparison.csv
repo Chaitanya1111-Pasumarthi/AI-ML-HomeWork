@@ -1,0 +1,4 @@
+rank,model,mae,mse,r_squared
+1,Linear Regression,2.7310,14.1757,0.8518
+2,Random Forest,3.2425,20.5800,0.7848
+3,Decision Tree,5.3681,60.7594,0.3647

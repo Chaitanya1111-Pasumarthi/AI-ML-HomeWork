@@ -37,6 +37,16 @@ categorical columns, and missing values to:
 3. Combine preprocessing and classification in a scikit-learn pipeline.
 4. Run one complete workflow from raw CSV data through evaluation.
 
+## Day 5: Mini ML Project
+
+Day 5 completes an end-to-end student-performance regression project:
+
+1. Generate and load a reproducible student-performance dataset.
+2. Handle missing numerical and categorical values.
+3. Compare Linear Regression, Decision Tree, and Random Forest models.
+4. Evaluate MAE, MSE, and R-squared, then select the best model.
+5. Save predictions, a comparison chart, an explained notebook, and project documentation.
+
 ## Run
 
 From the repository root:
@@ -57,4 +67,5 @@ From the repository root:
 .venv/bin/python Week5/Day4_CategoricalEncoding/categorical_encoding.py
 .venv/bin/python Week5/Day4_PipelineBasics/pipeline_basics.py
 .venv/bin/python Week5/Day4_EndToEndPractice/end_to_end_practice.py
+.venv/bin/python Week5/Day5_MiniProject/student_performance_project.py
 ```

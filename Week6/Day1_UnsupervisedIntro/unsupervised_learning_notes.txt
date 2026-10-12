@@ -1,0 +1,9 @@
+Unsupervised Learning Introduction
+==================================
+Unsupervised learning finds patterns without known target labels.
+KMeans assigns each point to the nearest learned cluster center.
+Rows grouped: 60
+Number of clusters: 3
+Cluster sizes: [20, 20, 20]
+
+Cluster numbers are identifiers only; cluster 0 is not better or worse than cluster 1.

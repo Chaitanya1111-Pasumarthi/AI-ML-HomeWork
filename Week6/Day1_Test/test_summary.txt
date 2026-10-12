@@ -1,0 +1,7 @@
+Week 6 Day 1 Test
+=================
+Missing feature values inserted: 329
+Preprocessing: median imputation fitted on training data.
+Decision Tree accuracy: 93.86%
+Random Forest accuracy: 94.74%
+Better test result: Random Forest (94.74%)

@@ -1,0 +1,8 @@
+KMeans Basics
+=============
+Data points: 90
+Clusters requested: 3
+Cluster sizes: [30, 30, 30]
+Inertia: 101.0910
+
+Inertia is the sum of squared distances from points to their assigned centers.

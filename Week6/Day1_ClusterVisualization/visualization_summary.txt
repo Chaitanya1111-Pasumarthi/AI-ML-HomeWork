@@ -1,0 +1,5 @@
+Cluster Visualization
+=====================
+Points plotted: 120
+Colors show KMeans cluster assignments.
+Black X markers show the learned cluster centers.

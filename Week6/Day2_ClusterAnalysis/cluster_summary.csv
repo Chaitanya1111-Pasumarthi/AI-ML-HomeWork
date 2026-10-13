@@ -1,0 +1,5 @@
+cluster,customers,average_age,average_income_k,average_spending_score,group_label
+0,30,43.2,80.7,74.1,"high-income, high-spending customers"
+1,30,32.3,78.4,26.5,"high-income, low-spending customers"
+2,30,47.2,36.2,26.6,"lower-income, low-spending customers"
+3,30,23.6,31.4,78.4,"lower-income, high-spending customers"

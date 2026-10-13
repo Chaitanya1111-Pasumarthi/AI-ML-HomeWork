@@ -1,0 +1,9 @@
+REAL DATASET CLUSTERING
+Dataset: 120 sample customer records
+Features: age, annual income, and spending score
+Method: StandardScaler followed by KMeans with K=4
+
+Cluster 0: 30 customers
+Cluster 1: 30 customers
+Cluster 2: 30 customers
+Cluster 3: 30 customers

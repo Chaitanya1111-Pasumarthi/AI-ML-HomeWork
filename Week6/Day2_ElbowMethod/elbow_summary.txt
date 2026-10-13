@@ -1,0 +1,4 @@
+ELBOW METHOD
+Tested K values: 1 through 10
+Suggested elbow: K=4
+The largest bend indicates a useful balance between compact clusters and simplicity.

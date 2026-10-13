@@ -1,0 +1,6 @@
+CLUSTER LABEL ANALYSIS
+
+Cluster 0: 30 customers, average age 43.2, income $80.7k, spending score 74.1. This group represents high-income, high-spending customers.
+Cluster 1: 30 customers, average age 32.3, income $78.4k, spending score 26.5. This group represents high-income, low-spending customers.
+Cluster 2: 30 customers, average age 47.2, income $36.2k, spending score 26.6. This group represents lower-income, low-spending customers.
+Cluster 3: 30 customers, average age 23.6, income $31.4k, spending score 78.4. This group represents lower-income, high-spending customers.

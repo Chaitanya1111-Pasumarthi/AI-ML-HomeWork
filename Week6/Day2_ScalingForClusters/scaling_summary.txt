@@ -1,0 +1,6 @@
+STANDARDIZATION BEFORE CLUSTERING
+Silhouette score without scaling: 0.670
+Silhouette score with scaling: 0.668
+Assignment agreement (Adjusted Rand Index): 1.000
+
+Standardization gives age, income, and spending equal influence by putting them on comparable scales. The scaled result is used for the final customer groups.

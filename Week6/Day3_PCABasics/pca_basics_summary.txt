@@ -1,0 +1,7 @@
+PCA BASICS
+Dataset: Iris (150 rows and 4 numerical features)
+Original dimensions: 4
+Reduced dimensions: 2
+Information retained: 95.81%
+
+PCA combines correlated features into new principal components. It reduces dimensions while keeping as much variation as possible.

@@ -1,0 +1,6 @@
+CLUSTERING WITH PCA
+Original 4D silhouette score: 0.460
+PCA 2D silhouette score: 0.509
+Cluster agreement (Adjusted Rand Index): 1.000
+
+The PCA version uses only two features, is easy to visualize, and produces clusters similar to those from the original four standardized features.

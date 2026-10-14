@@ -16,6 +16,15 @@ The four Tuesday exercises are:
 3. Compare KMeans before and after standardization.
 4. Apply clustering to a small sample customer dataset.
 
+## Day 3 - Principal Component Analysis
+
+The four Wednesday exercises are:
+
+1. Apply PCA to the four-feature Iris dataset.
+2. Project the data into two dimensions and create a scatter plot.
+3. Inspect the explained variance retained by each component.
+4. Run KMeans on the PCA data and compare it with the original features.
+
 All examples use deterministic random seeds so the results can be reproduced.
 
 ## Run
@@ -36,4 +45,13 @@ Run the Day 2 programs in this order:
 .venv/bin/python Week6/Day2_ElbowMethod/elbow_method.py
 .venv/bin/python Week6/Day2_ClusterAnalysis/cluster_analysis.py
 .venv/bin/python Week6/Day2_ScalingForClusters/scaling_for_clusters.py
+```
+
+Run the Day 3 programs:
+
+```bash
+.venv/bin/python Week6/Day3_PCABasics/pca_basics.py
+.venv/bin/python Week6/Day3_PCAProjection/pca_projection.py
+.venv/bin/python Week6/Day3_ExplainedVariance/explained_variance.py
+.venv/bin/python Week6/Day3_ClusteringWithPCA/clustering_with_pca.py
 ```

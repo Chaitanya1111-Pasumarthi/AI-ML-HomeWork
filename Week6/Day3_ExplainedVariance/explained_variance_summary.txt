@@ -1,0 +1,8 @@
+EXPLAINED VARIANCE
+Component 1: 72.96%
+Component 2: 22.85%
+Component 3: 3.67%
+Component 4: 0.52%
+
+The first two components retain 95.81% of the information.
+Therefore, two dimensions provide a useful visual summary of the dataset.

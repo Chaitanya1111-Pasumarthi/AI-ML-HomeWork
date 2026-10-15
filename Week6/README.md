@@ -25,6 +25,15 @@ The four Wednesday exercises are:
 3. Inspect the explained variance retained by each component.
 4. Run KMeans on the PCA data and compare it with the original features.
 
+## Day 4 - Anomaly and Outlier Detection
+
+The four Thursday exercises are:
+
+1. Detect unusual values using z-scores and the IQR method.
+2. Find points that are far from the center using Euclidean distance.
+3. Cap outliers in customer data and compare results before and after cleaning.
+4. Summarize the week's unsupervised-learning concepts in one notebook.
+
 All examples use deterministic random seeds so the results can be reproduced.
 
 ## Run
@@ -55,3 +64,14 @@ Run the Day 3 programs:
 .venv/bin/python Week6/Day3_ExplainedVariance/explained_variance.py
 .venv/bin/python Week6/Day3_ClusteringWithPCA/clustering_with_pca.py
 ```
+
+Run the Day 4 programs:
+
+```bash
+.venv/bin/python Week6/Day4_AnomalyDetection/anomaly_detection.py
+.venv/bin/python Week6/Day4_OutlierCheck/distance_outlier_check.py
+.venv/bin/python Week6/Day4_RealOutlierHandling/real_outlier_handling.py
+```
+
+Open `Week6/Day4_SummaryNotebook/unsupervised_learning_summary.ipynb` in
+Jupyter or VS Code to review and run the complete summary.

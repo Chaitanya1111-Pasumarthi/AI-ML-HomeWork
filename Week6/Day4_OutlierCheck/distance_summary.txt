@@ -1,0 +1,6 @@
+DISTANCE-BASED OUTLIER CHECK
+Center (median): (2.10, 2.25)
+Distance threshold: 5.12
+Outlier points: [[8.5, 8.0], [-3.5, 7.5]]
+
+Points farther than the mean distance plus one standard deviation are marked as outliers.

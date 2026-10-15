@@ -1,0 +1,6 @@
+ANOMALY DETECTION
+Z-score anomalies (threshold > 2): [120]
+IQR bounds: 37.50 to 51.50
+IQR anomalies: [120, 5]
+
+A z-score measures distance from the mean in standard deviations. IQR detects values outside the middle-data range and is less affected by extremes.

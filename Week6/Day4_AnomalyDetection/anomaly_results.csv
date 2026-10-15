@@ -1,0 +1,13 @@
+value,z_score,z_score_anomaly,iqr_anomaly
+42,0.232,False,False
+45,0.109,False,False
+47,0.027,False,False
+43,0.191,False,False
+46,0.068,False,False
+44,0.15,False,False
+48,0.014,False,False
+41,0.272,False,False
+45,0.109,False,False
+46,0.068,False,False
+120,2.956,True,True
+5,1.744,False,True

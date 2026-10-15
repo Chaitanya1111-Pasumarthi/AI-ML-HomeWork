@@ -1,0 +1,9 @@
+REAL DATA CLEANING WITH OUTLIERS
+Rows analyzed: 123
+Rows containing outliers: 2
+Method: cap values at the IQR lower and upper bounds
+
+MEAN BEFORE -> AFTER CLEANING
+age: 37.28 -> 37.01 (bounds 0.00 to 72.00)
+annual_income_k: 59.03 -> 57.73 (bounds -35.73 to 149.68)
+spending_score: 51.01 -> 51.01 (bounds -50.75 to 155.25)
